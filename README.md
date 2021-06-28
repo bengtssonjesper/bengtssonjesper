@@ -1,7 +1,7 @@
 # Hi, my name is Jesper 👋
 
-## Student of Computer Science 
-### Aspiring Frontend Developer
+I am a computer science student and aspiring frontend developer
+<br>
 <hr>
 
 - 🎓 Studying computer science at Örebro University

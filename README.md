@@ -1,7 +1,7 @@
 # Hi, my name is Jesper 👋
 
-## Computer science student, aspiring frontend developer
-
+## Student of Computer Science 
+### Aspiring Frontend Developer
 <hr>
 
 - 🎓 Studying computer science at Örebro University
@@ -9,22 +9,17 @@
 
 # Languages, frameworks and tools I'm using
 
-<img alt="Angular" src="https://img.shields.io/badge/-Angular-45b8d8?style=flat-square&logo=angular&logoColor=white" />
 
-
-
-<!--
-<img alt="Angular" src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<RED>&?style=social&logo=appveyor" />
-<img alt="Angular" src="https://img.shields.io/static/v1?label=<LABEL>&message=_&color=<RED>&?style=social&logo=appveyor" />
---!>
-<img alt="HTML" src="https://img.shields.io/badge/HTML-&?style=social&logo=HTML5" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS-&?style=social&logo=css3" />
-<img alt="JS" src="https://img.shields.io/badge/Javascript-&?style=social&logo=javascript" />
-<img alt="TS" src="https://img.shields.io/badge/Typescript-&?style=social&logo=typescript" />
-<img alt="Angular" src="https://img.shields.io/badge/Angular-&?style=social&logo=angular" />
-<img alt="C" src="https://img.shields.io/badge/C-&?style=social&logo=c" />
-<img alt="CS" src="https://img.shields.io/badge/CSharp-&?style=social&logo=csharp" />
-<img alt="Python" src="https://img.shields.io/badge/Python-&?style=social&logo=python" />
+<p>
+<img alt="HTML" src="https://img.shields.io/badge/HTML-%23e35f26?style=for-the-badge&logo=html5&logoColor=white" />  
+<img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="JS" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+<img alt="TS" src="https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img alt="CS" src="https://img.shields.io/badge/CSharp-%23239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 
 

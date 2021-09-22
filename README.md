@@ -5,7 +5,7 @@ I am a computer science student and aspiring frontend developer
 <hr>
 
 - 🎓 Studying computer science at Örebro University
-- 🌱 I’m currently learning AngularJS
+- 🌱 I’m currently learning Angular
 
 # Languages, frameworks and tools I'm using
 
